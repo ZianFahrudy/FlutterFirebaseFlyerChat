@@ -1,6 +1,7 @@
 # example
 
-A new Flutter project.
+User 1: zian@gmail.com | 123456
+User 2: rudy@gmail.com | 123456
 
 ## Getting Started
 
